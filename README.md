@@ -12,7 +12,7 @@
 ⠀⠀⠀⠀⠀⠀⢻⡁⠀⠀⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠘⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀
 <br><br>Mi amor por la programación no se limita únicamente a la escritura de código. Siempre estoy ansioso por colaborar y aprender de otros profesionales talentosos, lo que me impulsa a mejorar y perfeccionar mis habilidades. Además, tengo un fuerte compromiso con la eficiencia y la resolución de problemas, lo que me impulsa a encontrar soluciones óptimas y atractivas para los desafíos que se me presentan.<br><br>En mi tiempo libre, me encanta explorar las últimas tendencias tecnológicas, lo que me ayuda a mantenerme actualizado y a la vanguardia en un campo en constante evolución. También soy un amante de la música y un apasionado por la cultura de México, lo que aporta una perspectiva única a mi trabajo y mi vida.<br><br>Si buscas a alguien que sea un apasionado del desarrollo de software, que esté comprometido con el aprendizaje continuo y que aporte una mezcla única de creatividad y atención al detalle, ¡estoy aquí para el desafío! Estoy emocionado por la oportunidad de contribuir a proyectos emocionantes y formar parte de un equipo que comparta mi pasión por la tecnología.<br><br>¡Conéctate conmigo y juntos creemos un futuro digital asombroso!
 
 
