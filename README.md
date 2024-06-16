@@ -1,7 +1,5 @@
 # 💫 SOBRE MI :
   Me presento soy AvaStrOficial este perfil se hizo para crear un limite en mi conocimiento como etico y no etico dentro de la progreamacion hay muchas llaves y puertas que descubrir..
-  <br></br>
-   Mi edad : 23
    <br></br>
     Mis hobbys : gaming , programar y pesting web
 <br></br>
