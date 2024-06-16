@@ -1,13 +1,13 @@
 # 💫 SOBRE MI :
   Me presento soy AvaStrOficial este perfil se hizo para crear un limite en mi conocimiento como etico y no etico dentro de la progreamacion hay muchas llaves y puertas que descubrir..
   ⠀ <br></br>
-  ⠀⠀grupo de telegram : https://t.me/+sOf-gqn6SClmNDcx
+grupo de telegram : https://t.me/+sOf-gqn6SClmNDcx
    <br></br>
-    Mis hobbys : gaming , programar y pesting web
+Mis hobbys : gaming , programar y pesting web
 <br></br>
- Mis interéses es la programación y el hacking ético.
+Mis interéses es la programación y el hacking ético.
  <br></br>
-  Venta de contenido en : https://t.me/BSZ_VENTAS
+Venta de contenido en : https://t.me/BSZ_VENTAS
 <br></br>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣤⣶⡎⠉⠀⠙⢧⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
