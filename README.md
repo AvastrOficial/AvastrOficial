@@ -1,5 +1,7 @@
 # 💫 SOBRE MI :
   Me presento soy AvaStrOficial este perfil se hizo para crear un limite en mi conocimiento como etico y no etico dentro de la progreamacion hay muchas llaves y puertas que descubrir..
+  ⠀ <br></br>
+  ⠀⠀grupo de telegram : https://t.me/+sOf-gqn6SClmNDcx
    <br></br>
     Mis hobbys : gaming , programar y pesting web
 <br></br>
@@ -40,7 +42,7 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⢿⣿⡄⠀⠀⢙⣹⣷⠶⠟⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠑⠦⣄⠀⠀⠀⠀⠀⠀⠀⠰⢚⡇⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠿⡾⠿⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠂⠀⠀⠀⠀⠀⠈⠛⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 <br></br>⠀⠀⠀⠀⠀
-⠀⠀⠀grupo de telegram : https://t.me/+sOf-gqn6SClmNDcx
+
 
 ## 🌐 REDES SOCIALES:
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/AvastrOficial) 
