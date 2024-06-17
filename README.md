@@ -1,5 +1,5 @@
 # 💫 SOBRE MI :
-> Sideceas conocerme puedes ir a mi portafolio web : https://avastroficial.github.io/
+> Sideceas conocerme puedes ir a mi portafolio web : https://avastroficial.github.io/ <
 <br></br>
   Me presento soy AvaStrOficial este perfil se hizo para crear un limite en mi conocimiento como etico y no etico dentro de la progreamacion hay muchas llaves y puertas que descubrir..
   ⠀ <br></br>
