@@ -7,9 +7,8 @@ Mis hobbys : gaming , programar y pesting web
 <br></br>
 Mis interéses es la programación y el hacking ético.
  <br></br>
-⠀⠀![image](https://github.com/AvastrOficial/AvastrOficial/assets/91764815/273c49fd-2208-4551-bc37-fddf0016ae35)
-
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+![image](https://github.com/AvastrOficial/AvastrOficial/assets/91764815/07f31e06-c78d-443b-8ca4-ef8ef0c99020)
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 <br></br>⠀⠀⠀⠀⠀
 
 
