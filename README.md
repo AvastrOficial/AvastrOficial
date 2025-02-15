@@ -46,7 +46,7 @@ https://binarioweek-bsz.blogspot.com/
 </p>
 
 Logros :
-https://awesome.ecosyste.ms/projects/github.com%2Favastroficial%2Ffileboxbsz
+https://repos.ecosyste.ms/hosts/GitHub/owners/AvastrOficial
 
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
