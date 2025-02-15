@@ -1,6 +1,8 @@
 # 💫 SOBRE MI :
 > Sideceas conocerme puedes ir a mi portafolio web : https://avastroficial.github.io/ 
 # 
+Logros :
+https://repos.ecosyste.ms/hosts/GitHub/owners/AvastrOficial
   Me presento soy AvaStrOficial este perfil se hizo para crear un limite en mi conocimiento como etico y no etico dentro de la progreamacion hay muchas llaves y puertas que descubrir..
   ⠀ <br></br>
 Mis hobbys : gaming , programar y pesting web
@@ -45,8 +47,7 @@ https://binarioweek-bsz.blogspot.com/
     alt="iscpatricio92" /> 
 </p>
 
-Logros :
-https://repos.ecosyste.ms/hosts/GitHub/owners/AvastrOficial
+
 
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
