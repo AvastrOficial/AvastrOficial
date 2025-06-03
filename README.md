@@ -2,7 +2,7 @@
 ![Visitas](https://visitor-badge.laobi.icu/badge?page_id=AvastrOficial&left_color=gray&right_color=1fd157&left_text=Visitas)
 
 
-![test](https://visitor-badge.laobi.icu/badge?page_id=test&left_color=15652f&right_color=00db5f)
+![test](https://visitor-badge.laobi.icu/badge?page_id=test&left_color=1ed257&right_color=10d566)
 # 💫 SOBRE MI :
 > Sideceas conocerme puedes ir a mi portafolio web : https://avastroficial.github.io/ 
 # 
