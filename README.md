@@ -1,4 +1,3 @@
-### Contador de visualizaciones :
 ![Visitas](https://visitor-badge.laobi.icu/badge?page_id=AvastrOficial&left_color=gray&right_color=1fd157&left_text=Visitas)
 
 # 💫 SOBRE MI :
