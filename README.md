@@ -1,10 +1,7 @@
 ### Contador de visualizaciones :
 ![Visitas](https://visitor-badge.laobi.icu/badge?page_id=AvastrOficial&left_color=gray&right_color=black)
 
-![Visualizaciones](https://visitor-badge.laobi.icu/badge?page_id=test&left_text=Visualizaciones&left_color=5bfb8e&right_color=ed1dc0)
-
-![Visualizaciones Totales](https://visitor-badge.laobi.icu/badge?page_id=test&left_text=Visualizaciones%20Totales&left_color=5bfb8e&right_color=ed1dc0)
-
+![Tes2](https://visitor-badge.laobi.icu/badge?page_id=Esto Un Testeo&left_text=Tes2&left_color=2acb5d&right_color=81c59f)
 # 💫 SOBRE MI :
 > Sideceas conocerme puedes ir a mi portafolio web : https://avastroficial.github.io/ 
 # 
