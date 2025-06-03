@@ -1,8 +1,5 @@
 ### Contador de visualizaciones :
-![Visitas](https://countapi.xyz/hit/bsz-profile/github-visits-bsz1234567890/svg)
-
-
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
 # 💫 SOBRE MI :
 > Sideceas conocerme puedes ir a mi portafolio web : https://avastroficial.github.io/ 
 # 
