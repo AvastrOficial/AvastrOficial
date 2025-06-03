@@ -2,7 +2,7 @@
 ![Visitas](https://visitor-badge.laobi.icu/badge?page_id=AvastrOficial&left_color=gray&right_color=1fd157&left_text=Visitas)
 
 
-![test](https://visitor-badge.laobi.icu/badge?page_id=test&left_color=0bea52&right_color=04e766)
+![Visualiazaciones](https://visitor-badge.laobi.icu/badge?page_id=AvaStrOficial2&left_text=Visualiazaciones&left_color=%23ababab&right_color=%2314ff7a)
 
 
 # 💫 SOBRE MI :
