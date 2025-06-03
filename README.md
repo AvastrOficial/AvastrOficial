@@ -1,7 +1,7 @@
 ### Contador de visualizaciones :
 ![Visitas](https://visitor-badge.laobi.icu/badge?page_id=AvastrOficial&left_color=gray&right_color=black)
 
-const markdown = `![${label}](https://visitor-badge.laobi.icu/badge?page_id=${fixedUsername}&left_text=${encodedLabel}&left_color=${leftColor}&right_color=${rightColor})`;
+![${label}](https://visitor-badge.laobi.icu/badge?page_id=${fixedUsername}&left_text=${encodedLabel}&left_color=${leftColor}&right_color=${rightColor})
 
 
 # 💫 SOBRE MI :
