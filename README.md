@@ -1,6 +1,5 @@
 ### Contador de visualizaciones :
-<div id="sfc2m18nmsr47c2rknbmapjuxutr7u79nre"></div>
-<br><noscript><a href="https://www.contadorvisitasgratis.com" title="contador de visitas gratis blogger"><img src="https://counter1.optistats.ovh/private/contadorvisitasgratis.php?c=2m18nmsr47c2rknbmapjuxutr7u79nre" border="0"></a></noscript>
+<script type="text/javascript" src="https://contador.websiteout.com/js/6/4/0/1"></script>
 
 
 # 💫 SOBRE MI :
