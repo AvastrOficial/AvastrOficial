@@ -1,5 +1,6 @@
 ### Contador de visualizaciones :
-<script type="text/javascript" src="https://contador.websiteout.com/js/6/4/0/1"></script>
+![Visitas](https://countapi.xyz/hit/bsz-profile/github-visits-bsz1234567890/svg)
+
 
 
 # 💫 SOBRE MI :
