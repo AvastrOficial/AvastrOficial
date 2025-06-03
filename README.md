@@ -1,5 +1,5 @@
 ### Contador de visualizaciones :
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=AvastrOficial)
 # 💫 SOBRE MI :
 > Sideceas conocerme puedes ir a mi portafolio web : https://avastroficial.github.io/ 
 # 
