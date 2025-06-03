@@ -1,5 +1,5 @@
 ### Contador de visualizaciones :
-![Visitas](https://visitor-badge.laobi.icu/badge?page_id=AvastrOficial&left_text=Visitas)
+![Visitas](https://visitor-badge.laobi.icu/badge?page_id=AvastrOficial&left_color=gray&right_color=#1fd157&left_text=Visitas)
 
 
 ![test](https://visitor-badge.laobi.icu/badge?page_id=test1&left_text=test&left_color=#1fd157&right_color=#12974b)
