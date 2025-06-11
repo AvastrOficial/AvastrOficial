@@ -9,6 +9,19 @@ Este perfil se creó como un punto de partida y un límite entre el conocimiento
 
 --- 
 
+## 🧠 Alias que representan mi trayectoria
+
+Con mucha honra y dedicación, he dejado huella bajo cada uno de estos nombres, construyendo proyectos y alcanzando metas:
+
+- 👁️ **AvastrOficial**  
+- 🔮 **El Ojo Que Todo Lo Ve**  
+- 🛡️ **Bsz Hackers**  
+- 🌀 **╲⎝⧹[ꀇꃴꀇꃶτꀋ ꀇꃶꀡτꀇꀋ]⧸⎠╱**
+
+Cada uno de ellos representa un camino distinto, pero todos llevan el mismo sello: esfuerzo, conocimiento y evolución.
+
+--- 
+
 ## 🏆 Logros
 📍 Puedes ver algunos de mis proyectos y reconocimientos aquí:  
 🔗 [https://repos.ecosyste.ms/hosts/GitHub/owners/AvastrOficial](https://repos.ecosyste.ms/hosts/GitHub/owners/AvastrOficial)
@@ -22,6 +35,13 @@ Este perfil se creó como un punto de partida y un límite entre el conocimiento
 
 - 🛒 **Venta de Contenido:**  
   [https://t.me/Bsz_Ventas2](https://t.me/Bsz_Ventas2)
+
+  ---
+
+## 📜 Historia de BSZ
+
+📖 Conoce más sobre el origen y evolución del proyecto BSZ:  
+➡️ [Historia de BSZ](https://appbsz.crearforo.net/h89-historia-bsz)
 
   ---
 
