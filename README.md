@@ -1,33 +1,37 @@
 ![Visitas](https://visitor-badge.laobi.icu/badge?page_id=AvastrOficial&left_color=gray&right_color=1fd157&left_text=Visitas)
 
 # 💫 SOBRE MI :
-> Sideceas conocerme puedes ir a mi portafolio web : https://avastroficial.github.io/ 
-# 
-Logros :
-https://repos.ecosyste.ms/hosts/GitHub/owners/AvastrOficial
-  Me presento soy AvaStrOficial este perfil se hizo para crear un limite en mi conocimiento como etico y no etico dentro de la progreamacion hay muchas llaves y puertas que descubrir..
-  ⠀ <br></br>
-Mis hobbys : gaming , programar y pesting web
-<br></br>
-Mis interéses es la programación y el hacking ético.
- <br></br>
-![image](https://github.com/AvastrOficial/AvastrOficial/assets/91764815/07f31e06-c78d-443b-8ca4-ef8ef0c99020)
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-<br></br>⠀⠀⠀⠀⠀
 
+Este perfil se creó como un punto de partida y un límite entre el conocimiento ético y no ético en la programación. Sé que hay muchas llaves y puertas por descubrir, y estoy aquí para explorarlas con responsabilidad, Me presento soy AvaStrOficial este perfil se hizo para crear un limite en mi conocimiento como etico y no etico dentro de la progreamacion.
+
+🌐 Si deseas conocerme mejor, puedes visitar mi portafolio web:  
+👉 [https://avastroficial.github.io/](https://avastroficial.github.io/)
+
+--- 
+
+## 🏆 Logros
+📍 Puedes ver algunos de mis proyectos y reconocimientos aquí:  
+🔗 [https://repos.ecosyste.ms/hosts/GitHub/owners/AvastrOficial](https://repos.ecosyste.ms/hosts/GitHub/owners/AvastrOficial)
+
+--- 
+
+## 💬 Comunidades y enlaces
+
+- 👥 **Grupo de Telegram:**  
+  [https://t.me/+1_2rUbl_x4VmOGJh](https://t.me/+1_2rUbl_x4VmOGJh)
+
+- 🛒 **Venta de Contenido:**  
+  [https://t.me/Bsz_Ventas2](https://t.me/Bsz_Ventas2)
+  
+ 
+![image](https://github.com/AvastrOficial/AvastrOficial/assets/91764815/07f31e06-c78d-443b-8ca4-ef8ef0c99020)
+⠀⠀⠀⠀
+--- ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 ## 🌐 REDES SOCIALES:
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/AvastrOficial) 
-<br></br>
-> grupo de telegram : https://t.me/+sOf-gqn6SClmNDcx
-<br></br>
-> Venta de contenido en : https://t.me/BSZ_VENTAS
-# Historia de Bsz : 
-https://appbsz.crearforo.net/h89-historia-bsz	
-## Blogs webs :
-https://exponiendoacosadoresz.blogspot.com/
-<br></br>
-https://binarioweek-bsz.blogspot.com/
+
+
 # 💻 Pila de tecnología:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white) ![P5js](https://img.shields.io/badge/p5.js-ED225D?style=plastic&logo=p5.js&logoColor=FFFFFF) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=plastic&logo=web3.js&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=plastic&logo=webpack&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
 
