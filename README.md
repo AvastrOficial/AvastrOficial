@@ -9,6 +9,14 @@ Este perfil se creó como un punto de partida y un límite entre el conocimiento
 
 --- 
 
+## 🏆 Logros
+📍 Puedes ver algunos de mis proyectos y reconocimientos aquí:  
+🔗 [https://repos.ecosyste.ms/hosts/GitHub/owners/AvastrOficial](https://repos.ecosyste.ms/hosts/GitHub/owners/AvastrOficial)
+
+[![committers.top badge](https://user-badge.committers.top/mexico/AvastrOficial.svg)](https://user-badge.committers.top/mexico/AvastrOficial)
+
+--- 
+
 ## 🧠 Alias que representan mi trayectoria
 
 Con mucha honra y dedicación, he dejado huella bajo cada uno de estos nombres, construyendo proyectos y alcanzando metas:
@@ -20,11 +28,6 @@ Con mucha honra y dedicación, he dejado huella bajo cada uno de estos nombres, 
 
 Cada uno de ellos representa un camino distinto, pero todos llevan el mismo sello: esfuerzo, conocimiento y evolución.
 
---- 
-
-## 🏆 Logros
-📍 Puedes ver algunos de mis proyectos y reconocimientos aquí:  
-🔗 [https://repos.ecosyste.ms/hosts/GitHub/owners/AvastrOficial](https://repos.ecosyste.ms/hosts/GitHub/owners/AvastrOficial)
 
 --- 
 
