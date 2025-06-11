@@ -22,7 +22,18 @@ Este perfil se creó como un punto de partida y un límite entre el conocimiento
 
 - 🛒 **Venta de Contenido:**  
   [https://t.me/Bsz_Ventas2](https://t.me/Bsz_Ventas2)
-  
+
+  ---
+
+## 🌐 Mis Dominios y Proyectos
+
+Cada uno de estos sitios representa parte de mi esfuerzo, creatividad y límites alcanzados:
+
+- 🧩 [https://appbsz.crearforo.net/](https://appbsz.crearforo.net/) – Foro principal y base de operaciones de BSZ  
+- 🔐 [https://thespambsz.foroactivo.com/](https://thespambsz.foroactivo.com/) – Proyectos relacionados al análisis de spam  
+- 🎬 [https://bszpelisplus.foroactivo.com/](https://bszpelisplus.foroactivo.com/) – Plataforma de películas estilo streaming  
+- 🕵️‍♂️ [https://bszdoxing.foroactivo.com/](https://bszdoxing.foroactivo.com/) – Proyecto orientado a investigación digital
+
  
 ![image](https://github.com/AvastrOficial/AvastrOficial/assets/91764815/07f31e06-c78d-443b-8ca4-ef8ef0c99020)
 ⠀⠀⠀⠀
