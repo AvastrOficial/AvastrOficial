@@ -34,10 +34,11 @@ Cada uno de estos sitios representa parte de mi esfuerzo, creatividad y límites
 - 🎬 [https://bszpelisplus.foroactivo.com/](https://bszpelisplus.foroactivo.com/) – Plataforma de películas estilo streaming  
 - 🕵️‍♂️ [https://bszdoxing.foroactivo.com/](https://bszdoxing.foroactivo.com/) – Proyecto orientado a investigación digital
 
+ --- 
  
 ![image](https://github.com/AvastrOficial/AvastrOficial/assets/91764815/07f31e06-c78d-443b-8ca4-ef8ef0c99020)
 ⠀⠀⠀⠀
---- ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 ## 🌐 REDES SOCIALES:
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/AvastrOficial) 
