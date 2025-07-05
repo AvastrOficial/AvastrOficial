@@ -52,10 +52,27 @@ Cada uno de ellos representa un camino distinto, pero todos llevan el mismo sell
 
 Cada uno de estos sitios representa parte de mi esfuerzo, creatividad y límites alcanzados:
 
-- 🧩 [https://appbsz.crearforo.net/](https://appbsz.crearforo.net/) – Foro principal y base de operaciones de BSZ  
-- 🔐 [https://thespambsz.foroactivo.com/](https://thespambsz.foroactivo.com/) – Proyectos relacionados al análisis de spam  
-- 🎬 [https://bszpelisplus.foroactivo.com/](https://bszpelisplus.foroactivo.com/) – Plataforma de películas estilo streaming  
-- 🕵️‍♂️ [https://bszdoxing.foroactivo.com/](https://bszdoxing.foroactivo.com/) – Proyecto orientado a investigación digital
+## 🌐 Mis Dominios y Proyectos
+
+Cada uno de estos sitios representa parte de mi esfuerzo, creatividad y límites alcanzados:
+
+- 🧩 [https://appbsz.crearforo.net/](https://appbsz.crearforo.net/)  
+  *Foro principal y base de operaciones de BSZ*
+
+- 🔐 [https://thespambsz.foroactivo.com/](https://thespambsz.foroactivo.com/)  
+  *Proyectos relacionados al análisis de spam*
+
+- 🎬 [https://bszpelisplus.foroactivo.com/](https://bszpelisplus.foroactivo.com/)  
+  *Plataforma de películas estilo streaming*
+
+- 🕵️‍♂️ [https://bszdoxing.foroactivo.com/](https://bszdoxing.foroactivo.com/)  
+  *Proyecto orientado a investigación digital*
+
+- 💳 [https://chekerv2bsz.foroactivo.com/](https://chekerv2bsz.foroactivo.com/)  
+  *Checker de tarjetas de crédito - versiones gratuita y de paga*
+
+- 📬 [https://bszcorreotemporalnet.foroactivo.com/](https://bszcorreotemporalnet.foroactivo.com/)  
+  *Correo temporal gratuito, sin costo ni registro*
 
  --- 
  
