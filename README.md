@@ -73,6 +73,9 @@ Cada uno de estos sitios representa parte de mi esfuerzo, creatividad y límites
 
 - 📬 [https://bszcorreotemporalnet.foroactivo.com/](https://bszcorreotemporalnet.foroactivo.com/)  
   *Correo temporal gratuito, sin costo ni registro*
+  
+-  [https://redchan.foroactivo.com/](https://redchan.foroactivo.com/)  
+  *RedChan Tablon De Discuciones - Eofed*
 
  --- 
  
