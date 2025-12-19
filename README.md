@@ -105,12 +105,10 @@ Cada uno de estos sitios representa parte de mi esfuerzo, creatividad y límites
 
 
 
-
 <p align="center">
   <img src="https://i.pinimg.com/1200x/97/1c/5a/971c5a880687ccac5eea4cb5ef60f755.jpg" 
-       alt="iscpatricio92" 
-       width="95%">
+       alt="Snake animation" 
+       width="100%">
 </p>
-
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
