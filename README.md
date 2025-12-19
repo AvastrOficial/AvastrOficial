@@ -5,7 +5,7 @@
 Este perfil se creó como un punto de partida y un límite entre el conocimiento ético y no ético en la programación. Sé que hay muchas llaves y puertas por descubrir, y estoy aquí para explorarlas con responsabilidad, Me presento soy AvaStrOficial estoy investigando un limite en mi conocimiento como etico y no etico dentro de la progreamacion.
 
 🌐 Si deseas conocerme mejor, puedes visitar mi portafolio web:  
-👉 [https://avastroficial.github.io/](https://avastroficial.github.io/)
+👉 [https://appbsz.crearforo.net/](https://appbsz.crearforo.net/h155-indexv2/) 
 
 --- 
 
