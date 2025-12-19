@@ -34,10 +34,10 @@ Cada uno de ellos representa un camino distinto, pero todos llevan el mismo sell
 ## 💬 Comunidades y enlaces
 
 - 👥 **Grupo de Telegram:**  
-  [https://t.me/+1_2rUbl_x4VmOGJh](https://t.me/+1_2rUbl_x4VmOGJh)
+  [https://t.me/BszHackersOficial](https://t.me/BszHackersOficial) 
 
 - 🛒 **Venta de Contenido:**  
-  [https://t.me/Bsz_Ventas2](https://t.me/Bsz_Ventas2)
+  [https://t.me/VentaSoftwareWeb](https://t.me/VentaSoftwareWeb) 
 
   ---
 
