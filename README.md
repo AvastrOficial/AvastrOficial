@@ -104,29 +104,5 @@ Cada uno de estos sitios representa parte de mi esfuerzo, creatividad y límites
 
 
 
-<script>
-// Versión simplificada
-(function() {
-  function aplicarFondo() {
-    if (document.body.classList.contains('logged-in')) {
-      const style = document.createElement('style');
-      style.textContent = `
-        body.logged-in {
-          background: url('https://i.pinimg.com/1200x/97/1c/5a/971c5a880687ccac5eea4cb5ef60f755.jpg') center/cover fixed no-repeat !important;
-          min-height: 100vh !important;
-        }
-      `;
-      document.head.appendChild(style);
-    }
-  }
-  
-  // Ejecutar
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', aplicarFondo);
-  } else {
-    aplicarFondo();
-  }
-})();
-</script>
-
+<div class="logged-in" onload="if(this.closest('body').classList.contains('logged-in')){document.head.appendChild(Object.assign(document.createElement('style'),{textContent:'body.logged-in{background:url(\\'https://i.pinimg.com/1200x/97/1c/5a/971c5a880687ccac5eea4cb5ef60f755.jpg\\')center/cover fixed no-repeat!important;min-height:100vh!important}'}))}"></div> 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
