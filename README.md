@@ -105,68 +105,27 @@ Cada uno de estos sitios representa parte de mi esfuerzo, creatividad y límites
 
 
 <script>
-  (function() {
-  // Función para aplicar el fondo
-  function aplicarFondoPersonalizado() {
-    // Verificar si el body tiene la clase 'logged-in'
+// Versión simplificada
+(function() {
+  function aplicarFondo() {
     if (document.body.classList.contains('logged-in')) {
-      // Crear un estilo CSS personalizado
-      const estilo = document.createElement('style');
-      estilo.id = 'fondo-personalizado';
-      estilo.textContent = `
+      const style = document.createElement('style');
+      style.textContent = `
         body.logged-in {
-          background-image: url('https://i.pinimg.com/1200x/97/1c/5a/971c5a880687ccac5eea4cb5ef60f755.jpg') !important;
-          background-size: cover !important;
-          background-position: center !important;
-          background-attachment: fixed !important;
-          background-repeat: no-repeat !important;
+          background: url('https://i.pinimg.com/1200x/97/1c/5a/971c5a880687ccac5eea4cb5ef60f755.jpg') center/cover fixed no-repeat !important;
           min-height: 100vh !important;
         }
-        
-        /* Opcional: ajustar el contenido principal para mejor legibilidad */
-        body.logged-in .container,
-        body.logged-in main {
-          background-color: rgba(255, 255, 255, 0.8) !important;
-          padding: 20px !important;
-          border-radius: 8px !important;
-        }
       `;
-      
-      // Agregar el estilo al documento
-      document.head.appendChild(estilo);
-      
-      console.log('✅ Fondo personalizado aplicado');
+      document.head.appendChild(style);
     }
   }
   
-  // Ejecutar cuando el DOM esté listo
+  // Ejecutar
   if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', aplicarFondoPersonalizado);
+    document.addEventListener('DOMContentLoaded', aplicarFondo);
   } else {
-    aplicarFondoPersonalizado();
+    aplicarFondo();
   }
-  
-  // Opcional: Observar cambios dinámicos en el DOM
-  const observer = new MutationObserver(function(mutations) {
-    // Verificar si se añadió la clase 'logged-in' al body
-    mutations.forEach(function(mutation) {
-      if (mutation.type === 'attributes' && 
-          mutation.attributeName === 'class' && 
-          document.body.classList.contains('logged-in')) {
-        
-        // Verificar que el estilo no se haya aplicado ya
-        if (!document.getElementById('fondo-personalizado')) {
-          aplicarFondoPersonalizado();
-        }
-      }
-    });
-  });
-  
-  // Comenzar a observar el elemento body
-  observer.observe(document.body, {
-    attributes: true,
-    attributeFilter: ['class']
-  });
 })();
 </script>
 
