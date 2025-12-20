@@ -7,6 +7,12 @@ Este perfil se creó como un punto de partida y un límite entre el conocimiento
 🌐 Si deseas conocerme mejor, puedes visitar mi portafolio web:  
 👉 [https://appbsz.crearforo.net/](https://appbsz.crearforo.net/h155-indexv2/) 
 
+- 🛒 **Venta de Contenido Telegram:**  
+  [https://t.me/VentaSoftwareWeb](https://t.me/VentaSoftwareWeb) 
+
+- 🛒 **Venta de Contenido web:**  
+  [Tienda Oline](https://n9.cl/klugq) 
+
 --- 
 
 ## 🏆 Logros
@@ -35,9 +41,6 @@ Cada uno de ellos representa un camino distinto, pero todos llevan el mismo sell
 
 - 👥 **Grupo de Telegram:**  
   [https://t.me/BszHackersOficial](https://t.me/BszHackersOficial) 
-
-- 🛒 **Venta de Contenido:**  
-  [https://t.me/VentaSoftwareWeb](https://t.me/VentaSoftwareWeb) 
 
   ---
 
