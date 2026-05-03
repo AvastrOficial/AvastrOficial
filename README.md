@@ -30,7 +30,6 @@ Con mucha honra y dedicación, he dejado huella bajo cada uno de estos nombres, 
 - 👁️ **AvastrOficial**  
 - 🔮 **El Ojo Que Todo Lo Ve**  
 - 🛡️ **Bsz Hackers**  
-- 🌀 **╲⎝⧹[ꀇꃴꀇꃶτꀋ ꀇꃶꀡτꀇꀋ]⧸⎠╱**
 
 Cada uno de ellos representa un camino distinto, pero todos llevan el mismo sello: esfuerzo, conocimiento y evolución.
 
