@@ -10,8 +10,6 @@ Este perfil se creó como un punto de partida y un límite entre el conocimiento
 - 🛒 **Venta de Contenido Telegram:**  
   [https://t.me/VentaSoftwareWeb](https://t.me/VentaSoftwareWeb) 
 
-- 🛒 **Venta de Contenido web:**  
-  [Tienda Oline](https://n9.cl/klugq) 
 
 --- 
 
@@ -32,21 +30,6 @@ Con mucha honra y dedicación, he dejado huella bajo cada uno de estos nombres, 
 - 🛡️ **Bsz Hackers**  
 
 Cada uno de ellos representa un camino distinto, pero todos llevan el mismo sello: esfuerzo, conocimiento y evolución.
-
-
---- 
-
-## 💬 Comunidades y enlaces
-
-- 👥 **Grupo de Telegram:**  
-  [https://t.me/BszHackersOficial](https://t.me/BszHackersOficial) 
-
-  ---
-
-## 📜 Historia de BSZ
-
-📖 Conoce más sobre el origen y evolución del proyecto BSZ:  
-➡️ [Historia de BSZ](https://appbsz.crearforo.net/h89-historia-bsz)
 
   ---
 
