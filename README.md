@@ -17,16 +17,6 @@ Este perfil se creó como un punto de partida y un límite entre el conocimiento
 
 --- 
 
-## 🧠 Alias que representan mi trayectoria
-
-Con mucha honra y dedicación, he dejado huella bajo cada uno de estos nombres, construyendo proyectos y alcanzando metas:
-
-- 👁️ **AvastrOficial**  
-
-Cada uno de ellos representa un camino distinto, pero todos llevan el mismo sello: esfuerzo, conocimiento y evolución.
-
-  ---
-
 ## 🌐 Mis Dominios y Proyectos
 
 Cada uno de estos sitios representa parte de mi esfuerzo, creatividad y límites alcanzados:
