@@ -22,8 +22,6 @@ Este perfil se creó como un punto de partida y un límite entre el conocimiento
 Con mucha honra y dedicación, he dejado huella bajo cada uno de estos nombres, construyendo proyectos y alcanzando metas:
 
 - 👁️ **AvastrOficial**  
-- 🔮 **El Ojo Que Todo Lo Ve**  
-- 🛡️ **Bsz Hackers**  
 
 Cada uno de ellos representa un camino distinto, pero todos llevan el mismo sello: esfuerzo, conocimiento y evolución.
 
