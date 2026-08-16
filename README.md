@@ -7,10 +7,6 @@ Este perfil se creó como un punto de partida y un límite entre el conocimiento
 🌐 Si deseas conocerme mejor, puedes visitar mi portafolio web:  
 👉 [https://appbsz.crearforo.net/](https://appbsz.crearforo.net/h155-indexv2/) 
 
-- 🛒 **Venta de Contenido Telegram:**  
-  [https://t.me/VentaSoftwareWeb](https://t.me/VentaSoftwareWeb) 
-
-
 --- 
 
 ## 🏆 Logros
